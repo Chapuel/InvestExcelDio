@@ -21,7 +21,7 @@ Dividendos mensais?
 
 # Base
 
-A base engloba uma tabela ( Simulador de Patrimônio ) com cabeçalho e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela cabeçalho, 5 linhas e duas colunas.
+A base engloba uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
 
 # Simulador de acumulo de patrimônio
 
@@ -29,13 +29,14 @@ Formulas utilizadas para patrimônio acumulado =VF(taxa_mensal;qtd_anos*12;aport
 
 # Simulador de cenários
 
-Essa tabela terá cabeçalho, 05 linhas e 2 colunas, onde cada linha da 1ª Coluna terá variação de tempo em anos( 2, 5, 10, 120, e 30).
-A fórmula utiliza será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo do resultado para positivo.
+Essa tabela terá cabeçalho (Cenários), 05 linhas e 3 colunas, onde cada linha da 1ª Coluna terá variação de tempo em anos( 2, 5, 10, 20 e 30) e a 3ª Coluna será de dividendos que é o resultado da VF vezes um por cento.
+A fórmula utilizada será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo do resultado para positivo.
 A tecla F4 é utilizada para congelar os valores.
 para facilitar a utilização da quantidade de anos na fórmula, insere na frente de cada linha o número de anos correspondente e depois utiliza a fonte branca para tornar invisível.
 
+# Variáveis Globais
 
-
+As variáveis globais são utilizadas para diversos fins, no nosso caso será uma tabela com 4 linhas sendo uma delas para cabeçalho (Configurações) e 2 colunas.
 
 
 
