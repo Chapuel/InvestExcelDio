@@ -1,6 +1,6 @@
 # InvestExcelDio
 
-Criação de planilha em Excel para previsão e controle  básico de investimentos.
+Criação de planilha em Excel para simulação, previsão e controle básico de investimentos.
 
 # Objetivo
 
@@ -21,9 +21,26 @@ Dividendos mensais?
 
 # Base
 
-A base engloba uma tabela com todas as questões anteriores distribuidas em linhas numa única coluna seguida de outra, onde serão inseridos os dados principais.
+A base engloba uma tabela ( Simulador de Patrimônio ) com cabeçalho e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela cabeçalho, 5 linhas e duas colunas.
 
-# Simulador
+# Simulador de acumulo de patrimônio
+
+Formulas utilizadas para patrimônio acumulado =VF(taxa_mensal;qtd_anos*12;aporte*-1); Dividendos mensais =patrimonio*rendimento_carteira.
+
+# Simulador de cenários
+
+Essa tabela terá cabeçalho, 05 linhas e 2 colunas, onde cada linha da 1ª Coluna terá variação de tempo em anos( 2, 5, 10, 120, e 30).
+A fórmula utiliza será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo do resultado para positivo.
+A tecla F4 é utilizada para congelar os valores.
+para facilitar a utilização da quantidade de anos na fórmula, insere na frente de cada linha o número de anos correspondente e depois utiliza a fonte branca para tornar invisível.
+
+
+
+
+
+
+
+
 
 
 
