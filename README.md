@@ -40,7 +40,9 @@ As variáveis globais são utilizadas para diversos fins, no nosso caso será um
 
 # Nomeando intervalos
 No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
-Para nomear uma referência de célula (Apelido), você não pode esquecer do detalhe principal, o nome não deve ter espaço e sim Underline. Isso facilita a identificação da célula independente de onde está sendo aplicada. Se você apertar a tecla CTRL + F3 juntas abrirá a janela de "Gerenciador de nomes" e somente a tecla F3 abre a janela de "Colar nomes" para que após selecionado insira a referência na fórmula desejada.
+Para renomear uma referência de célula (Apelido) não esqueça do detalhe principal, o nome não pode ter espaço e sim Underline.
+Se você apertar a tecla CTRL + F3 juntas abrirá a janela de "Gerenciador de nomes" e somente a tecla F3 abre a janela de "Colar nomes" para que após selecionado insira a referência na fórmula desejada.
+Isso facilita a identificação da célula independente de onde está sendo aplicada.
 
 
 
