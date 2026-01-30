@@ -39,10 +39,13 @@ para facilitar a utilização da quantidade de anos na fórmula, insere na frent
 As variáveis globais são utilizadas para diversos fins, no nosso caso será uma tabela com 4 linhas sendo uma delas para cabeçalho (Configurações) e 2 colunas. Na primeira coluna teremos as inscrições: salário, rendimento em carteira e sugestão de investimento.
 
 # Nomeando intervalos
-No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
+<p style="text-align: justify;">No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
 Para renomear uma referência de célula (Apelido) não esqueça dos detalhe principais, o nome não pode ter espaço e sim Underline, não pode ter acento e deverá ser todo em letra minúscula.
 Se você apertar a tecla CTRL + F3 juntas abrirá a janela de "Gerenciador de nomes" e somente a tecla F3 abre a janela de "Colar nomes" para que após selecionado insira a referência na fórmula desejada.
 A substituição da referência alfa-númerica da célula para nome, facilita a identificação e localização da célula independente de onde está sendo aplicada.
+A tecla CTRL+ Shift é utilizada para ocultar colunas e deixar a área da planilha limpa e de fácil visualização.</p>
+
+# Criando uniformidade visual
 
 
 
