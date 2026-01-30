@@ -13,9 +13,9 @@ Seguindo o propósito desse trabalho se faz necessário buscar informações e d
 # Desenvolvimento
 
 Algumas questões são interessantes para nortear o desenvolvimento desse trabalho e no nosso caso serão:
-Quanto você deseja investir por mês?
-Por quantos anos?
-Qual a taxa de rendimento mensal?
+Quanto você deseja investir por mês? (aporte)
+Por quantos anos? (qtd_anos)
+Qual a taxa de rendimento mensal? (taxa_mensal)
 Patrimônio acumulado?
 Dividendos mensais?
 
@@ -25,7 +25,7 @@ A base engloba uma tabela com cabeçalho ( Investimento Mensal ) e todas as ques
 
 # Simulador de acumulo de patrimônio
 
-Formulas utilizadas para patrimônio acumulado =VF(taxa_mensal;qtd_anos*12;aporte*-1); Dividendos mensais =patrimonio*Rendimento Carteira.
+Fórmulas utilizadas para patrimônio acumulado =VF(taxa_mensal;qtd_anos*12;aporte*-1); Dividendos mensais =patrimonio*Rendimento Carteira.
 
 # Simulador de cenários
 
@@ -40,9 +40,9 @@ As variáveis globais são utilizadas para diversos fins, no nosso caso será um
 
 # Nomeando intervalos
 No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
-Para renomear uma referência de célula (Apelido) não esqueça do detalhe principal, o nome não pode ter espaço e sim Underline.
+Para renomear uma referência de célula (Apelido) não esqueça dos detalhe principais, o nome não pode ter espaço e sim Underline, não pode ter acento e deverá ser minúsculo.
 Se você apertar a tecla CTRL + F3 juntas abrirá a janela de "Gerenciador de nomes" e somente a tecla F3 abre a janela de "Colar nomes" para que após selecionado insira a referência na fórmula desejada.
-Isso facilita a identificação da célula independente de onde está sendo aplicada.
+ A substituição da referência alfa-númerica da célula para nome, facilita a identificação e localização da célula independente de onde está sendo aplicada.
 
 
 
