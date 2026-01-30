@@ -49,14 +49,30 @@ A tecla CTRL+ Shift é utilizada para ocultar colunas e deixar a área da planil
 # Criando uniformidade visual
 
 A visualização colunar da planilha a torna mais agradável. 
-Em documentos formais é recomendado utilizar o formato contábil para valores monetários.
+Em documentos formais é recomendado utilizar o formato contábil para valores monetários, porém será utilizado nessa planilha o formato "Moeda".
 Quanto ao alinhamento dos dados para texto é indicado todo a esquerda e para números centralizados.
 Para selecionar áreas distintas ao mesmo tempo utilize o mouse/cursor com a tecla CTRL apertada.
 Mesclar é um mecanismo bem utilizado para ajustar as linhas e colunas buscando maior uniformidade no alinhamento.
 Nas células o ideal é utilizar cores claras e cabeçalhos as cores mais fortes.
 Geralmente as células preenchidas com a cor cinza claro indicam uma preferência em não alterá-las.
 A fonte recomendada nesse trabalho é a Segoe UI.
-Ocultar a barra de tarefas suaviza a visialização.
+Ocultar a barra de tarefas suaviza a visualização.
+A borda das tabelas sempre com uma linha um pouco mais grossa e as linhas internas mais finas.
+
+# Simulador de perfil
+
+Os tipos de Perfil de investidores utilizados nessa planilha são:
+  a) AGRESSIVO;
+  b) MODERADO e
+  c) CONSERVADOR.
+
+Para isso vamos construir uma tabela com 6 linhas e duas colunas. Na primeira linha o título PERFIL preenchido com cor clara em destaque na segunda linha o texto "Valor a ser investido por mês".
+Na primeira linha da segunda coluna deverá inserir uma caixa de listagem com os perfe para configurar essa célula deve  
+
+e na sunda linha o valor referência do perfil.
+
+
+
 
 
 
