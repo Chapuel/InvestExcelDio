@@ -12,7 +12,7 @@ Seguindo o propósito desse trabalho se faz necessário buscar informações e d
 
 # Desenvolvimento
 
-Algumas questões são interessantes para nortear o desenvolvimento desse trabalho por exemplo:
+Algumas questões são interessantes para nortear o desenvolvimento desse trabalho e no nosso caso serão:
 Quanto você deseja investir por mês?
 Por quantos anos?
 Qual a taxa de rendimento mensal?
@@ -25,18 +25,18 @@ A base engloba uma tabela com cabeçalho ( Investimento Mensal ) e todas as ques
 
 # Simulador de acumulo de patrimônio
 
-Formulas utilizadas para patrimônio acumulado =VF(taxa_mensal;qtd_anos*12;aporte*-1); Dividendos mensais =patrimonio*rendimento_carteira.
+Formulas utilizadas para patrimônio acumulado =VF(taxa_mensal;qtd_anos*12;aporte*-1); Dividendos mensais =patrimonio*Rendimento Carteira.
 
 # Simulador de cenários
 
-Essa tabela terá cabeçalho (Cenários), 05 linhas e 3 colunas, onde cada linha da 1ª Coluna terá variação de tempo em anos( 2, 5, 10, 20 e 30) e a 3ª Coluna será de dividendos que é o resultado da VF vezes um por cento.
+Essa tabela terá cabeçalho (Cenários), 05 linhas e 3 colunas, onde cada linha da 1ª Coluna terá variação de tempo em anos( 2, 5, 10, 20 e 30) e a 3ª Coluna será de dividendos que é o resultado da VF vezes o Rendimento Carteira da planila de configurações.
 A fórmula utilizada será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo do resultado para positivo.
 A tecla F4 é utilizada para congelar os valores.
 para facilitar a utilização da quantidade de anos na fórmula, insere na frente de cada linha o número de anos correspondente e depois utiliza a fonte branca para tornar invisível.
 
 # Variáveis Globais
 
-As variáveis globais são utilizadas para diversos fins, no nosso caso será uma tabela com 4 linhas sendo uma delas para cabeçalho (Configurações) e 2 colunas.
+As variáveis globais são utilizadas para diversos fins, no nosso caso será uma tabela com 4 linhas sendo uma delas para cabeçalho (Configurações) e 2 colunas. Na primeira coluna teremos as inscrições: salário, rendimento em carteira e sugestão de investimento.
 
 
 
