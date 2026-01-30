@@ -16,7 +16,7 @@ Algumas questões são interessantes para nortear o desenvolvimento desse trabal
 Quanto você deseja investir por mês? (aporte)
 Por quantos anos? (qtd_anos)
 Qual a taxa de rendimento mensal? (taxa_mensal)
-Patrimônio acumulado?
+Patrimônio acumulado? (patrimonio)
 Dividendos mensais?
 
 # Base
@@ -40,9 +40,9 @@ As variáveis globais são utilizadas para diversos fins, no nosso caso será um
 
 # Nomeando intervalos
 No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
-Para renomear uma referência de célula (Apelido) não esqueça dos detalhe principais, o nome não pode ter espaço e sim Underline, não pode ter acento e deverá ser minúsculo.
+Para renomear uma referência de célula (Apelido) não esqueça dos detalhe principais, o nome não pode ter espaço e sim Underline, não pode ter acento e deverá ser todo em letra minúscula.
 Se você apertar a tecla CTRL + F3 juntas abrirá a janela de "Gerenciador de nomes" e somente a tecla F3 abre a janela de "Colar nomes" para que após selecionado insira a referência na fórmula desejada.
- A substituição da referência alfa-númerica da célula para nome, facilita a identificação e localização da célula independente de onde está sendo aplicada.
+A substituição da referência alfa-númerica da célula para nome, facilita a identificação e localização da célula independente de onde está sendo aplicada.
 
 
 
