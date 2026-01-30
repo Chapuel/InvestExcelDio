@@ -21,7 +21,7 @@ Dividendos mensais?
 
 # Base
 
-A base engloba uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
+A base engloba um Banner principal com logo, uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
 
 # Simulador de acumulo de patrimônio
 
@@ -39,14 +39,24 @@ para facilitar a utilização da quantidade de anos na fórmula, insere na frent
 As variáveis globais são utilizadas para diversos fins, no nosso caso será uma tabela com 4 linhas sendo uma delas para cabeçalho (Configurações) e 2 colunas. Na primeira coluna teremos as inscrições: salário, rendimento em carteira e sugestão de investimento.
 
 # Nomeando intervalos
-<p style="text-align: justify;">No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
+
+No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
 Para renomear uma referência de célula (Apelido) não esqueça dos detalhe principais, o nome não pode ter espaço e sim Underline, não pode ter acento e deverá ser todo em letra minúscula.
 Se você apertar a tecla CTRL + F3 juntas abrirá a janela de "Gerenciador de nomes" e somente a tecla F3 abre a janela de "Colar nomes" para que após selecionado insira a referência na fórmula desejada.
 A substituição da referência alfa-númerica da célula para nome, facilita a identificação e localização da célula independente de onde está sendo aplicada.
-A tecla CTRL+ Shift é utilizada para ocultar colunas e deixar a área da planilha limpa e de fácil visualização.</p>
+A tecla CTRL+ Shift é utilizada para ocultar colunas e deixar a área da planilha limpa e de fácil visualização.
 
 # Criando uniformidade visual
 
+A visualização colunar da planilha a torna mais agradável. 
+Em documentos formais é recomendado utilizar o formato contábil para valores monetários.
+Quanto ao alinhamento dos dados para texto é indicado todo a esquerda e para números centralizados.
+Para selecionar áreas distintas ao mesmo tempo utilize o mouse/cursor com a tecla CTRL apertada.
+Mesclar é um mecanismo bem utilizado para ajustar as linhas e colunas buscando maior uniformidade no alinhamento.
+Nas células o ideal é utilizar cores claras e cabeçalhos as cores mais fortes.
+Geralmente as células preenchidas com a cor cinza claro indicam uma preferência em não alterá-las.
+A fonte recomendada nesse trabalho é a Segoe UI.
+Ocultar a barra de tarefas suaviza a visialização.
 
 
 
