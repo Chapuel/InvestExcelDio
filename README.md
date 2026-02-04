@@ -105,8 +105,7 @@ https://web.dio.me/lab/criando-uma-ferramenta-de-controle-de-investimentos-com-e
 O que fizemos:
 Banner, projeções com tabela de apoio, intervalos nomeados, uniformidade visual e gráficos.
 
-
-
+https://web.dio.me/lab/criando-uma-ferramenta-de-controle-de-investimentos-com-excel
 
 
 
