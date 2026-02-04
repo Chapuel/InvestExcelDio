@@ -68,6 +68,7 @@ Os tipos de Perfil de investidores utilizados nessa planilha são:
 
 Para isso vamos construir uma tabela com 2 linhas e duas colunas. Na primeira linha e primeira coluna o título PERFIL deve ser preenchido com cor clara e na segunda linha o texto "Valor a ser investido por mês" em negrito.
 Na primeira linha da segunda coluna inserir uma caixa de listagem.
+
 A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá o título de cada coluna sendo a primeira TIPO DE FII, a segunda coluna PERCENTUAL SUGERIDO e a terceira coluna VALORES.
  * Tipos de FII: Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelarias. 
  * Percentual Sugerido para o perfil conservador: 30%, 50%, 10%, 10%, 0% e 0%.
@@ -87,8 +88,23 @@ Percentual Sugerido para o perfil agressivo: 50%, 10%, 5%, 5%, 20% e 10%.
 Clique em um espaço aleatório próximo da tabela, selecione duas células uma ao lado da outra, vá em estilos e clique em Estilos de célula escolhendo um dos estilos existentes. Cole um texto de qualquer linha da coluna CHAVE ( Moderado-Tijolo) e cole na primeira célula.
 
 O que difere um perfil do outro será a CHAVE única necessária para a formula/função PROCV (Procura Vertical). Para que eu consiga pegar uma combinação de dois campos específicos com o PROCV eu preciso de uma chave única, ou seja, ele procura um valor na coluna e assim que localizado a linha ele tras o valor da coluna especificada na mesma linha. Portanto encontra a linha e depois a coluna.
-
 Selecione a segunda célula do PROCV e insira a fórmula. PROCV(valor_procurado;matriz_tabela;núm_índice_coluna'[procurar_intervalo]).
+
+Retorne a tabela do simulador de perfil e na coluna PERCENTUAL SUGERIDO insira na primeira linha o PROCV com tipo do perfil e o valor a ser inserido por mês (ex: moderado/papel). na fórmula o FALSO será utilizado para correspondência exata.
+
+A tabela de apoio facilita caso tenham novos valores a serem declarados.
+
+# Inserindo Gráfico
+
+Selecionar na tabela a área de Tipo de FII e Percentual Sugerido, ir em Inserir gráficos e escolher o modelo desejado (Pizza), formate o gráfico como desejar.
+mudando o perfil o gráfico irá exibir de acordo com a escolha.
+
+Essas instruções por si não eximem a necessidade de ver o vídeo do Professor Felipe Aguiar da DIO, porém subsidiam a clareza algumas necessidades. 
+https://web.dio.me/lab/criando-uma-ferramenta-de-controle-de-investimentos-com-excel/learning/1f9861d5-d23d-42d7-9ed0-efa937cb0087?back=/track/santander-excel-com-inteligencia-artificial. 
+
+O que fizemos:
+Banner, projeções com tabela de apoio, intervalos nomeados, uniformidade visual e gráficos.
+
 
 
 
