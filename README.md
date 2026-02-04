@@ -99,14 +99,10 @@ A tabela de apoio facilita caso tenham novos valores a serem declarados.
 Selecionar na tabela a área de Tipo de FII e Percentual Sugerido, ir em Inserir gráficos e escolher o modelo desejado (Pizza), formate o gráfico como desejar.
 mudando o perfil o gráfico irá exibir de acordo com a escolha.
 
-Essas instruções por si não eximem a necessidade de ver o vídeo do Professor Felipe Aguiar da DIO, porém subsidiam a clareza algumas necessidades. 
-https://web.dio.me/lab/criando-uma-ferramenta-de-controle-de-investimentos-com-excel/learning/1f9861d5-d23d-42d7-9ed0-efa937cb0087?back=/track/santander-excel-com-inteligencia-artificial. 
+Essas instruções por si não eximem a necessidade de ver o vídeo do Professor Felipe Aguiar da DIO, porém subsidiam com clareza algumas necessidades.
 
 O que fizemos:
 Banner, projeções com tabela de apoio, intervalos nomeados, uniformidade visual e gráficos.
-
-https://web.dio.me/lab/criando-uma-ferramenta-de-controle-de-investimentos-com-excel
-
 
 
 
