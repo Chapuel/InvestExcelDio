@@ -66,10 +66,12 @@ Os tipos de Perfil de investidores utilizados nessa planilha são:
   b) MODERADO e
   c) CONSERVADOR.
 
-Para isso vamos construir uma tabela com 6 linhas e duas colunas. Na primeira linha o título PERFIL preenchido com cor clara em destaque na segunda linha o texto "Valor a ser investido por mês".
-Na primeira linha da segunda coluna deverá inserir uma caixa de listagem com os perfe para configurar essa célula deve  
+Para isso vamos construir uma tabela com 2 linhas e duas colunas. Na primeira linha e primeira coluna o título PERFIL deve ser preenchido com cor clara e na segunda linha o texto "Valor a ser investido por mês" em negrito.
+Na primeira linha da segunda coluna inserir uma caixa de listagem.
+A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá o título de cada coluna sendo a primeira TIPO DE FII, a segunda coluna PERCENTUAL SUGERIDO e a terceira coluna VALORES.
+Os tipos de FII: Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelarias. Percentual Sugerido: 30%, 50%, 10%, 10%, 0% e 0%. Valores: É o resultado do percentual Sugerido  
 
-e na sunda linha o valor referência do perfil.
+
 
 
 
