@@ -70,7 +70,7 @@ Para isso vamos construir uma tabela com 2 linhas e duas colunas. Na primeira li
 Na primeira linha da segunda coluna inserir uma caixa de listagem.
 A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá o título de cada coluna sendo a primeira TIPO DE FII, a segunda coluna PERCENTUAL SUGERIDO e a terceira coluna VALORES.
  * Tipos de FII: Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelarias. 
- * Percentual Sugerido: 30%, 50%, 10%, 10%, 0% e 0%.
+ * Percentual Sugerido para o perfil conservador: 30%, 50%, 10%, 10%, 0% e 0%.
  * Valores: É o resultado do Percentual Sugerido.
 
 # Tabela de Apoio
@@ -79,6 +79,22 @@ A tabela de apoio fica oculta na aba de uma nova planilha. Nessa aba insira uma 
 
 Para fazer os cálculos dinamicamente utilize a CHAVE COMPOSTA. Na tabela já existente insira uma nova coluna Do lado ESQUERDO da coluna PERFIL, essa nova coluna terá o título CHAVE. Portanto, a Tabela estará exibindo os valores do perfil conservador e seus valores. Feito isso, copiar as 6 linhas de valores e colar embaixo na sequência, porém mudando o perfil para moderado ( para colar os valores a partir da primeira linha preenchida selecione todas as desejadas, aperte a tecla F2 escreva o texto aperte CTRL+enter). Na sequência o percentual na quarta coluna deverá ser preenchida de acordo com o perfil expresso na linha.
 No final a tabela ficará com 19 linhas sendo a prim eira para os titulos das colunas e 18 linhas em 3 blocos de perfil.
+Percentual Sugerido para o perfil moderado: 32%, 40%, 8%, 10%, 10% e 10%.
+Percentual Sugerido para o perfil agressivo: 50%, 10%, 5%, 5%, 20% e 10%.
+
+# Construir a PROCV
+
+Clique em um espaço aleatório próximo da tabela, selecione duas células uma ao lado da outra, vá em estilos e clique em Estilos de célula escolhendo um dos estilos existentes. Cole um texto de qualquer linha da coluna CHAVE ( Moderado-Tijolo) e cole na primeira célula.
+
+O que difere um perfil do outro será a CHAVE única necessária para a formula/função PROCV (Procura Vertical). Para que eu consiga pegar uma combinação de dois campos específicos com o PROCV eu preciso de uma chave única, ou seja, ele procura um valor na coluna e assim que localizado a linha ele tras o valor da coluna especificada na mesma linha. Portanto encontra a linha e depois a coluna.
+
+Selecione a segunda célula do PROCV e insira a fórmula. PROCV(valor_procurado;matriz_tabela;núm_índice_coluna'[procurar_intervalo]).
+
+
+
+
+
+
 
 
 
