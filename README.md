@@ -69,7 +69,17 @@ Os tipos de Perfil de investidores utilizados nessa planilha são:
 Para isso vamos construir uma tabela com 2 linhas e duas colunas. Na primeira linha e primeira coluna o título PERFIL deve ser preenchido com cor clara e na segunda linha o texto "Valor a ser investido por mês" em negrito.
 Na primeira linha da segunda coluna inserir uma caixa de listagem.
 A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá o título de cada coluna sendo a primeira TIPO DE FII, a segunda coluna PERCENTUAL SUGERIDO e a terceira coluna VALORES.
-Os tipos de FII: Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelarias. Percentual Sugerido: 30%, 50%, 10%, 10%, 0% e 0%. Valores: É o resultado do percentual Sugerido  
+ * Tipos de FII: Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelarias. 
+ * Percentual Sugerido: 30%, 50%, 10%, 10%, 0% e 0%.
+ * Valores: É o resultado do Percentual Sugerido.
+
+# Tabela de Apoio
+
+A tabela de apoio fica oculta na aba de uma nova planilha. Nessa aba insira uma tabela com 7 linha e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FII e na terceira coluna as porcentagens.
+
+Para fazer os cálculos dinamicamente utilize a CHAVE COMPOSTA. Na tabela já existente insira uma nova coluna Do lado ESQUERDO da coluna PERFIL, essa nova coluna terá o título CHAVE. Portanto, a Tabela estará exibindo os valores do perfil conservador e seus valores. Feito isso, copiar as 6 linhas de valores e colar embaixo na sequência, porém mudando o perfil para moderado ( para colar os valores a partir da primeira linha preenchida selecione todas as desejadas, aperte a tecla F2 escreva o texto aperte CTRL+enter). Na sequência o percentual na quarta coluna deverá ser preenchida de acordo com o perfil expresso na linha.
+No final a tabela ficará com 19 linhas sendo a prim eira para os titulos das colunas e 18 linhas em 3 blocos de perfil.
+
 
 
 
