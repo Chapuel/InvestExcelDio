@@ -113,7 +113,7 @@ Percentual Sugerido para o perfil agressivo: 50%, 10%, 5%, 5%, 20% e 10%.
 
 <img width="625" height="434" alt="Image" src="https://github.com/user-attachments/assets/b59d080d-fd80-46fd-b6c3-5ba2f2dcaebc" />
 
-# Construir a PROCV
+# Construindo a PROCV
 
 Clique em um espaço aleatório próximo da tabela, selecione duas células uma ao lado da outra, vá em estilos no menu e clique em "Estilos de Célula" escolhendo um dos estilos que mais lhe agradar. Cole um texto de qualquer linha da coluna CHAVE ( Moderado-Tijolo) e cole na primeira célula.
 O que difere um perfil do outro será a CHAVE única utilizada na fórmula/função PROCV = Procura Vertical. Para isso é necessário a combinação de dois campos específicos com o PROCV gerando dessa forma uma chave única, ou seja, o excel procura um valor determinado nas linhas de uma coluna e assim que localizado tras o valor desejado. Portanto na busca ele encontra primeiro a linha e na sequência a coluna indicada na fórmula.
