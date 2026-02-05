@@ -101,20 +101,17 @@ Inicie a nova tabela de apoio com apenas 7 linhas e 3 colunas. Na primeira colun
 
 Para fazer os cálculos dinâmicamente utilize uma CHAVE COMPOSTA. Na tabela já existente insira uma nova coluna do lado ESQUERDO da coluna PERFIL, essa nova coluna terá o título CHAVE. Portanto, a Tabela estará exibindo os valores do perfil conservador e seus padrões.
 
+<img width="663" height="209" alt="Image" src="https://github.com/user-attachments/assets/691b007b-1cde-46e7-93b3-090ffd9fd1b9" />
 
-
-
-
-
-
-
-
-
-
-Feito isso, copiar as 6 linhas de valores e colar embaixo na sequência, porém mudando o perfil para moderado ( para colar os valores a partir da primeira linha preenchida selecione todas as desejadas, aperte a tecla F2 escreva o texto aperte CTRL+enter). Na sequência o percentual na quarta coluna deverá ser preenchida de acordo com o perfil expresso na linha.
-No final a tabela ficará com 19 linhas sendo a prim eira para os titulos das colunas e 18 linhas em 3 blocos de perfil.
+Feito isso, copiar as 6 linhas com todo seu conteúdo até a última coluna e em seguida colar abaixo na sequência lógica e no mesmo alinhamento mudando o perfil de conservador para moderado. Repita o mesmo procedimento para o PERFIL Agressivo. 
+Dica para a coluna de PERFIL com textos iguais ( para colar os valores a partir da primeira linha preenchida selecione todas as desejadas, aperte e solte a tecla F2, escreva o texto e aperte CTRL + enter).
+Na sequência e na quarta coluna deverão ser preenchidos os campos de acordo com o perfil expresso na linha.
+No final a tabela ficará com 19 linhas sendo a primeira para os titulos das colunas e 18 linhas em 3 blocos de perfil.
+Percentual Sugerido para o perfil conservador: 30%, 50%, 10%, 10%, 0% e 0%.
 Percentual Sugerido para o perfil moderado: 32%, 40%, 8%, 10%, 10% e 10%.
 Percentual Sugerido para o perfil agressivo: 50%, 10%, 5%, 5%, 20% e 10%.
+
+
 
 # Construir a PROCV
 
