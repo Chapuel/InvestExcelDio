@@ -8,11 +8,11 @@ Esta planilha de simulação subsidia o investidor com ou sem experiência a tom
 
 # Introdução
 
-Seguindo o propósito desse trabalho se faz necessário buscar informações e dados financeiros em algum site ligado diretamente a atividade econômica, de preferência com dados financeiros oficiais diversificados de diversos segmentos. Investidor10.com é uma sugestão onde você terá acesso a uma infinidade de dados. ex: FIIs - MXRF11.
+Seguindo o propósito desse trabalho se faz necessário buscar informações e dados financeiros em algum site ligado diretamente a atividade econômica, de preferência com dados financeiros oficiais diversificados de diversos segmentos. Investidor10.com é uma sugestão onde você terá acesso a uma infinidade de dados. ex: FIIs - MXRF11, etc...
 
 # Desenvolvimento
 
-Algumas questões são interessantes para nortear o desenvolvimento desse trabalho e no nosso caso serão:
+Algumas questões são interessantes para nortear o desenvolvimento desse trabalho sendo elas:
 * Quanto você deseja investir por mês? (aporte)
 * Por quantos anos? (qtd_anos)
 * Qual a taxa de rendimento mensal? (taxa_mensal)
@@ -23,19 +23,20 @@ Algumas questões são interessantes para nortear o desenvolvimento desse trabal
 
 A base engloba um Banner principal com logo. <img width="1079" height="243" alt="Image" src="https://github.com/user-attachments/assets/009e29b9-a2d7-4b55-98c0-3594beb0ac30" />
 
-Uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
+Uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais, ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
 <img width="709" height="181" alt="Image" src="https://github.com/user-attachments/assets/121f4329-6aee-48d2-a4e3-419910e837ca" />
 
-# Simulador de acumulo de patrimônio
+# Simulador de acúmulo de patrimônio
 
-Fórmulas utilizadas para patrimônio acumulado =VF(taxa_mensal;qtd_anos*12;aporte*-1); Dividendos mensais =patrimonio*Rendimento Carteira.
+Fórmula utilizada para patrimônio acumulado: =VF(taxa_mensal;qtd_anos*12;aporte*-1);
+Fórmula utilizada para dividendos mensais: =patrimonio*Rendimento Carteira.
 
 # Simulador de cenários
 
-Essa tabela terá cabeçalho (Cenários), 05 linhas e 3 colunas, onde cada linha da 1ª Coluna terá variação de tempo em anos( 2, 5, 10, 20 e 30) e a 3ª Coluna será de dividendos que é o resultado da VF vezes o Rendimento Carteira da planila de configurações.
-A fórmula utilizada será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo do resultado para positivo.
-A tecla F4 é utilizada para congelar os valores.
-para facilitar a utilização da quantidade de anos na fórmula, insere na frente de cada linha o número de anos correspondente e depois utiliza a fonte branca para tornar invisível.
+Essa tabela terá cabeçalho (Cenários), 05 linhas e 3 colunas, onde cada linha da 1ª Coluna terá variação de tempo em anos( 2, 5, 10, 20 e 30) e a 3ª Coluna será de dividendos que é o resultado da VF (*)vezes o Rendimento Carteira da planila de configurações.
+A fórmula utilizada para patrimônio acumulado será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo para positivo nmo resultado.
+A tecla F4 é utilizada para congelar os valores das: Apertanto 1 vez congela linha/coluna, na segunda vez somente linha e na terceira vez somente coluna.
+para facilitar a utilização da quantidade de anos na fórmula, insere na frente de cada linha o número de anos correspondente ( fonte em vermelho) e depois utilize a cor branca para torná-la invisível.
 <img width="707" height="180" alt="Image" src="https://github.com/user-attachments/assets/d2f61c7d-2a30-4340-9391-faef25e18d4c" />
 
 # Variáveis Globais
