@@ -13,11 +13,11 @@ Seguindo o propósito desse trabalho se faz necessário buscar informações e d
 # Desenvolvimento
 
 Algumas questões são interessantes para nortear o desenvolvimento desse trabalho e no nosso caso serão:
-Quanto você deseja investir por mês? (aporte)
-Por quantos anos? (qtd_anos)
-Qual a taxa de rendimento mensal? (taxa_mensal)
-Patrimônio acumulado? (patrimonio)
-Dividendos mensais?
+* Quanto você deseja investir por mês? (aporte)
+* Por quantos anos? (qtd_anos)
+* Qual a taxa de rendimento mensal? (taxa_mensal)
+* Patrimônio acumulado? (patrimonio)
+* Dividendos mensais?
 
 # Base
 
