@@ -21,7 +21,9 @@ Dividendos mensais?
 
 # Base
 
-A base engloba um Banner principal com logo, uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
+A base engloba um Banner principal com logo: <img width="1079" height="243" alt="Image" src="https://github.com/user-attachments/assets/009e29b9-a2d7-4b55-98c0-3594beb0ac30" />
+
+uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
 
 # Simulador de acumulo de patrimônio
 
