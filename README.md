@@ -92,10 +92,12 @@ A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá 
 
 # Tabela de Apoio
 
-A tabela de apoio fica oculta numa segunda planilha. Nessa aba insira um nome para planilha (Tabela de Apoio),
+A tabela de apoio fica oculta numa segunda planilha, nomeie e insira uma tabela.
+<img width="477" height="60" alt="image" src="https://github.com/user-attachments/assets/578c90e9-c845-4e1e-a048-3b52aba22328" />
+
+Essa nova tabela terá 7 linha e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FIIs e na terceira coluna as porcentagens.
 
 
-uma tabela com 7 linha e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FII e na terceira coluna as porcentagens.
 
 Para fazer os cálculos dinamicamente utilize a CHAVE COMPOSTA. Na tabela já existente insira uma nova coluna Do lado ESQUERDO da coluna PERFIL, essa nova coluna terá o título CHAVE. Portanto, a Tabela estará exibindo os valores do perfil conservador e seus valores. Feito isso, copiar as 6 linhas de valores e colar embaixo na sequência, porém mudando o perfil para moderado ( para colar os valores a partir da primeira linha preenchida selecione todas as desejadas, aperte a tecla F2 escreva o texto aperte CTRL+enter). Na sequência o percentual na quarta coluna deverá ser preenchida de acordo com o perfil expresso na linha.
 No final a tabela ficará com 19 linhas sendo a prim eira para os titulos das colunas e 18 linhas em 3 blocos de perfil.
