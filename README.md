@@ -97,8 +97,11 @@ A tabela de apoio fica oculta numa segunda planilha, nomeie e insira uma tabela.
 
 Inicie a nova tabela de apoio com apenas 7 linhas e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FIIs e na terceira coluna as porcentagens.
 
+<img width="397" height="169" alt="image" src="https://github.com/user-attachments/assets/85585957-f87a-45b2-b39c-3f1513e51bb6" />
 
 Para fazer os cálculos dinâmicamente utilize uma CHAVE COMPOSTA. Na tabela já existente insira uma nova coluna do lado ESQUERDO da coluna PERFIL, essa nova coluna terá o título CHAVE. Portanto, a Tabela estará exibindo os valores do perfil conservador e seus padrões.
+
+
 
 
 
