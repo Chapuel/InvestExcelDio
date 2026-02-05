@@ -76,6 +76,7 @@ Na primeira linha da segunda coluna inserir uma caixa de listagem.
 
 <img width="719" height="64" alt="Image" src="https://github.com/user-attachments/assets/a75ea2e2-8a4c-478b-8c2e-cfdb0bf60f26" />
 
+
 A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá o título de cada coluna sendo a primeira TIPO DE FII, a segunda coluna PERCENTUAL SUGERIDO e a terceira coluna VALORES.
  * Tipos de FII: Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelarias. 
  * Percentual Sugerido para o perfil conservador: 30%, 50%, 10%, 10%, 0% e 0%.
