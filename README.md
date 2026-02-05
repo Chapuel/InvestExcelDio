@@ -39,7 +39,8 @@ para facilitar a utilização da quantidade de anos na fórmula, insere na frent
 
 # Variáveis Globais
 
-As variáveis globais são utilizadas para diversos fins, no nosso caso será uma tabela com 4 linhas sendo uma delas para cabeçalho (Configurações) e 2 colunas. Na primeira coluna teremos as inscrições: salário, rendimento em carteira e sugestão de investimento.
+As variáveis globais são utilizadas para diversos fins, no nosso caso será uma tabela com 4 linhas sendo uma delas para cabeçalho (Configurações) e 2 colunas. Na primeira coluna teremos as inscrições: salário, rendimento em carteira e sugestão de investimento:
+<img width="707" height="123" alt="Image" src="https://github.com/user-attachments/assets/80830bf5-33a4-4d04-a7c1-520c04a2b3f1" />
 
 # Nomeando intervalos
 
