@@ -37,7 +37,8 @@ Essa tabela terá cabeçalho (Cenários), 05 linhas e 3 colunas, onde cada linha
 A fórmula utilizada para patrimônio acumulado será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo para positivo nmo resultado.
 A tecla F4 é utilizada para congelar os valores das: Apertanto 1 vez congela linha/coluna, na segunda vez somente linha e na terceira vez somente coluna.
 para facilitar a utilização da quantidade de anos na fórmula, insere na frente de cada linha o número de anos correspondente ( fonte em vermelho) e depois utilize a cor branca para torná-la invisível.
-<img width="707" height="180" alt="Image" src="https://github.com/user-attachments/assets/d2f61c7d-2a30-4340-9391-faef25e18d4c" />
+<img width="744" height="198" alt="image" src="https://github.com/user-attachments/assets/71071e64-e77a-4cfc-9efc-df0c0b2d5b4c" />
+
 
 # Variáveis Globais
 
