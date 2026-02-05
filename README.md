@@ -85,6 +85,7 @@ A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá 
  * Percentual Sugerido para o perfil conservador: 30%, 50%, 10%, 10%, 0% e 0%.
  * Valores: É o resultado do Percentual Sugerido.
 
+<img width="712" height="191" alt="image" src="https://github.com/user-attachments/assets/563ee991-74d8-4c71-8387-2dd8a38a6567" />
 
 
 # Tabela de Apoio
