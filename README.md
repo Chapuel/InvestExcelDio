@@ -133,7 +133,7 @@ A tabela de apoio facilita caso tenham novos valores a serem declarados.
 Selecionar na tabela a área de Tipo de FII e Percentual Sugerido, ir em Inserir gráficos e escolher o modelo desejado (Pizza), formate o gráfico como desejar.
 Mudando o perfil na caixa de listagem o gráfico irá exibir de acordo com a sua escolha.
 
-
+<img width="551" height="257" alt="image" src="https://github.com/user-attachments/assets/fa7340cd-ca91-45c2-b09e-e4d2355f1f3e" />
 
 Essas instruções por si não eximem a necessidade de assistir o vídeo do Professor Felipe Aguiar da DIO, porém subsidiam na facilidade e entendimento.
 
