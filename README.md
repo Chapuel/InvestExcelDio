@@ -48,9 +48,9 @@ As variáveis globais são utilizadas para diversos fins, no nosso caso será um
 # Nomeando intervalos
 
 No canto esquerdo superior da planilha existe uma caixa de nomes, que normalmente exibe a referência de posição da célula, é nessa caixa que você irá renomeá-la.
-Para renomear uma referência de célula (Apelido) não esqueça dos detalhe principais, o nome não pode ter espaço e sim Underline, não pode ter acento e deverá ser todo em letra minúscula.
+Para renomear uma referência de célula (Apelido) não esqueça dos detalhes principais, o nome não pode ter espaço e sim Underline, não pode ter acento e deverá ser todo em letra minúscula.
 Se você apertar a tecla CTRL + F3 juntas abrirá a janela de "Gerenciador de nomes" e somente a tecla F3 abre a janela de "Colar nomes" para que após selecionado insira a referência na fórmula desejada.
-A substituição da referência alfa-númerica da célula para nome, facilita a identificação e localização da célula independente de onde está sendo aplicada.
+A substituição da referência alfa-númerica da célula para nome facilita a identificação e localização da célula, independente de onde está sendo aplicada.
 A tecla CTRL+ Shift é utilizada para ocultar colunas e deixar a área da planilha limpa e de fácil visualização.
 
 # Criando uniformidade visual
@@ -58,13 +58,13 @@ A tecla CTRL+ Shift é utilizada para ocultar colunas e deixar a área da planil
 A visualização colunar da planilha a torna mais agradável. 
 Em documentos formais é recomendado utilizar o formato contábil para valores monetários, porém será utilizado nessa planilha o formato "Moeda".
 Quanto ao alinhamento dos dados para texto é indicado todo a esquerda e para números centralizados.
-Para selecionar áreas distintas ao mesmo tempo utilize o mouse/cursor com a tecla CTRL apertada.
-Mesclar é um mecanismo bem utilizado para ajustar as linhas e colunas buscando maior uniformidade no alinhamento.
-Nas células o ideal é utilizar cores claras e cabeçalhos as cores mais fortes.
+Para selecionar áreas distintas ao mesmo tempo, utilize o mouse/cursor com a tecla CTRL apertada.
+Mesclar células é um mecanismo bem utilizado para ajustar o conteúdo das linhas e colunas buscando maior uniformidade no alinhamento.
+Nas células o ideal é utilizar cores claras e nos cabeçalhos cores fortes.
 Geralmente as células preenchidas com a cor cinza claro indicam uma preferência em não alterá-las.
 A fonte recomendada nesse trabalho é a Segoe UI.
 Ocultar a barra de tarefas suaviza a visualização.
-A borda das tabelas sempre com uma linha um pouco mais grossa e as linhas internas mais finas.
+A borda das tabelas recomenda-se linhas um pouco mais espessas e as linhas internas o mais finas possível.
 
 # Simulador de perfil
 
@@ -95,7 +95,7 @@ A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá 
 A tabela de apoio fica oculta numa segunda planilha, nomeie e insira uma tabela.
 <img width="477" height="60" alt="image" src="https://github.com/user-attachments/assets/578c90e9-c845-4e1e-a048-3b52aba22328" />
 
-Essa nova tabela terá 7 linha e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FIIs e na terceira coluna as porcentagens.
+Inicie a nova tabela de apoio com apenas 7 linhas e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FIIs e na terceira coluna as porcentagens.
 
 
 
