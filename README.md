@@ -123,9 +123,10 @@ Selecione a segunda célula do PROCV e insira a fórmula. PROCV(valor_procurado;
 
 # PROCV no Simulador
 
-Retorne na tabela do SIMULADOR DE PERFIL e na coluna PERCENTUAL SUGERIDO insira na primeira linha o PROCV com tipo do perfil e o valor a ser inserido por mês (ex: moderado/papel). na fórmula o FALSO será utilizado para correspondência exata.
-
+Retorne na tabela do SIMULADOR DE PERFIL e na coluna PERCENTUAL SUGERIDO insira na primeira linha o PROCV com tipo do perfil e o valor a ser inserido por mês (ex: moderado/papel). Na fórmula o FALSO é utilizado para correspondência exata na busca.
 A tabela de apoio facilita caso tenham novos valores a serem declarados.
+
+
 
 # Inserindo Gráfico
 
