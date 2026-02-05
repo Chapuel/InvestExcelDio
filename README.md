@@ -67,9 +67,9 @@ A borda das tabelas sempre com uma linha um pouco mais grossa e as linhas intern
 # Simulador de perfil
 
 Os tipos de Perfil de investidores utilizados nessa planilha são:
-  a) AGRESSIVO;
-  b) MODERADO e
-  c) CONSERVADOR.
+  * a) AGRESSIVO;
+  * b) MODERADO e
+  * c) CONSERVADOR.
 
 Para isso vamos construir uma tabela com 2 linhas e duas colunas. Na primeira linha e primeira coluna o título PERFIL deve ser preenchido com cor clara e na segunda linha o texto "Valor a ser investido por mês" em negrito.
 
