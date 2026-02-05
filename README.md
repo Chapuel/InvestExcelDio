@@ -21,11 +21,10 @@ Algumas questões são interessantes para nortear o desenvolvimento desse trabal
 
 # Base
 
-A base engloba um Banner principal com logo: <img width="1079" height="243" alt="Image" src="https://github.com/user-attachments/assets/009e29b9-a2d7-4b55-98c0-3594beb0ac30" />
+A base engloba um Banner principal com logo. <img width="1079" height="243" alt="Image" src="https://github.com/user-attachments/assets/009e29b9-a2d7-4b55-98c0-3594beb0ac30" />
 
-Uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas:
+Uma tabela com cabeçalho ( Investimento Mensal ) e todas as questões anteriores distribuidas em 5 linhas numa única coluna seguida de outra onde serão inseridos os dados principais ou seja, uma tabela com 6 linhas sendo uma delas para cabeçalho e 2 colunas.
 <img width="709" height="181" alt="Image" src="https://github.com/user-attachments/assets/121f4329-6aee-48d2-a4e3-419910e837ca" />
-
 
 # Simulador de acumulo de patrimônio
 
@@ -37,6 +36,7 @@ Essa tabela terá cabeçalho (Cenários), 05 linhas e 3 colunas, onde cada linha
 A fórmula utilizada será =VF(taxa_mensal;qtd_anos*12;aporte*-1), o "-1" no final da fórmula inverte o sinal negativo do resultado para positivo.
 A tecla F4 é utilizada para congelar os valores.
 para facilitar a utilização da quantidade de anos na fórmula, insere na frente de cada linha o número de anos correspondente e depois utiliza a fonte branca para tornar invisível.
+<img width="707" height="180" alt="Image" src="https://github.com/user-attachments/assets/d2f61c7d-2a30-4340-9391-faef25e18d4c" />
 
 # Variáveis Globais
 
