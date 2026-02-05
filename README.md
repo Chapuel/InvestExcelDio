@@ -126,14 +126,16 @@ Selecione a segunda célula do PROCV e insira a fórmula. PROCV(valor_procurado;
 Retorne na tabela do SIMULADOR DE PERFIL e na coluna PERCENTUAL SUGERIDO insira na primeira linha o PROCV com tipo do perfil e o valor a ser inserido por mês (ex: moderado/papel). Na fórmula o FALSO é utilizado para correspondência exata na busca.
 A tabela de apoio facilita caso tenham novos valores a serem declarados.
 
-
+<img width="732" height="254" alt="image" src="https://github.com/user-attachments/assets/2a98b3b3-c23a-4be1-9a74-0ca43ca94ddd" />
 
 # Inserindo Gráfico
 
 Selecionar na tabela a área de Tipo de FII e Percentual Sugerido, ir em Inserir gráficos e escolher o modelo desejado (Pizza), formate o gráfico como desejar.
-mudando o perfil o gráfico irá exibir de acordo com a escolha.
+Mudando o perfil na caixa de listagem o gráfico irá exibir de acordo com a sua escolha.
 
-Essas instruções por si não eximem a necessidade de ver o vídeo do Professor Felipe Aguiar da DIO, porém subsidiam com clareza algumas necessidades.
+
+
+Essas instruções por si não eximem a necessidade de assistir o vídeo do Professor Felipe Aguiar da DIO, porém subsidiam na facilidade e entendimento.
 
 O que fizemos:
 Banner, projeções com tabela de apoio, intervalos nomeados, uniformidade visual e gráficos.
