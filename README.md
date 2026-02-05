@@ -85,6 +85,8 @@ A segunda tabela logo abaixo terá 8 linhas e 3 colunas, a primeira linha terá 
  * Percentual Sugerido para o perfil conservador: 30%, 50%, 10%, 10%, 0% e 0%.
  * Valores: É o resultado do Percentual Sugerido.
 
+
+
 # Tabela de Apoio
 
 A tabela de apoio fica oculta na aba de uma nova planilha. Nessa aba insira uma tabela com 7 linha e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FII e na terceira coluna as porcentagens.
