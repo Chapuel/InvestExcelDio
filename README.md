@@ -115,10 +115,12 @@ Percentual Sugerido para o perfil agressivo: 50%, 10%, 5%, 5%, 20% e 10%.
 
 # Construir a PROCV
 
-Clique em um espaço aleatório próximo da tabela, selecione duas células uma ao lado da outra, vá em estilos e clique em Estilos de célula escolhendo um dos estilos existentes. Cole um texto de qualquer linha da coluna CHAVE ( Moderado-Tijolo) e cole na primeira célula.
+Clique em um espaço aleatório próximo da tabela, selecione duas células uma ao lado da outra, vá em estilos no menu e clique em "Estilos de Célula" escolhendo um dos estilos que mais lhe agradar. Cole um texto de qualquer linha da coluna CHAVE ( Moderado-Tijolo) e cole na primeira célula.
 
-O que difere um perfil do outro será a CHAVE única necessária para a formula/função PROCV (Procura Vertical). Para que eu consiga pegar uma combinação de dois campos específicos com o PROCV eu preciso de uma chave única, ou seja, ele procura um valor na coluna e assim que localizado a linha ele tras o valor da coluna especificada na mesma linha. Portanto encontra a linha e depois a coluna.
+O que difere um perfil do outro será a CHAVE única utilizada na fórmula/função PROCV = Procura Vertical. Para isso é necessário a combinação de dois campos específicos com o PROCV gerando dessa forma uma chave única, ou seja, o excel procura um valor determinado nas linhas de uma coluna e assim que localizado tras o valor desejado. Portanto na busca ele encontra primeiro a linha e na sequência a coluna indicada na fórmula.
 Selecione a segunda célula do PROCV e insira a fórmula. PROCV(valor_procurado;matriz_tabela;núm_índice_coluna'[procurar_intervalo]).
+
+
 
 Retorne a tabela do simulador de perfil e na coluna PERCENTUAL SUGERIDO insira na primeira linha o PROCV com tipo do perfil e o valor a ser inserido por mês (ex: moderado/papel). na fórmula o FALSO será utilizado para correspondência exata.
 
