@@ -96,9 +96,19 @@ A tabela de apoio fica oculta numa segunda planilha, nomeie e insira uma tabela.
 <img width="477" height="60" alt="image" src="https://github.com/user-attachments/assets/578c90e9-c845-4e1e-a048-3b52aba22328" />
 
 Inicie a nova tabela de apoio com apenas 7 linhas e 3 colunas. Na primeira coluna cole os valores do PERFIL , na segunda coluna os TIPO DE FIIs e na terceira coluna as porcentagens.
-<img width="543" height="165" alt="Image" src="https://github.com/user-attachments/assets/b8fbf2c6-f151-4cd8-acec-4c5322e92904" />
 
-Para fazer os cálculos dinâmicamente utilize uma CHAVE COMPOSTA. Na tabela já existente insira uma nova coluna do lado ESQUERDO da coluna PERFIL, essa nova coluna terá o título CHAVE. Portanto, a Tabela estará exibindo os valores do perfil conservador e seus valores. Feito isso, copiar as 6 linhas de valores e colar embaixo na sequência, porém mudando o perfil para moderado ( para colar os valores a partir da primeira linha preenchida selecione todas as desejadas, aperte a tecla F2 escreva o texto aperte CTRL+enter). Na sequência o percentual na quarta coluna deverá ser preenchida de acordo com o perfil expresso na linha.
+
+Para fazer os cálculos dinâmicamente utilize uma CHAVE COMPOSTA. Na tabela já existente insira uma nova coluna do lado ESQUERDO da coluna PERFIL, essa nova coluna terá o título CHAVE. Portanto, a Tabela estará exibindo os valores do perfil conservador e seus padrões.
+
+
+
+
+
+
+
+
+
+Feito isso, copiar as 6 linhas de valores e colar embaixo na sequência, porém mudando o perfil para moderado ( para colar os valores a partir da primeira linha preenchida selecione todas as desejadas, aperte a tecla F2 escreva o texto aperte CTRL+enter). Na sequência o percentual na quarta coluna deverá ser preenchida de acordo com o perfil expresso na linha.
 No final a tabela ficará com 19 linhas sendo a prim eira para os titulos das colunas e 18 linhas em 3 blocos de perfil.
 Percentual Sugerido para o perfil moderado: 32%, 40%, 8%, 10%, 10% e 10%.
 Percentual Sugerido para o perfil agressivo: 50%, 10%, 5%, 5%, 20% e 10%.
