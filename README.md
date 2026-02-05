@@ -111,7 +111,7 @@ Percentual Sugerido para o perfil conservador: 30%, 50%, 10%, 10%, 0% e 0%.
 Percentual Sugerido para o perfil moderado: 32%, 40%, 8%, 10%, 10% e 10%.
 Percentual Sugerido para o perfil agressivo: 50%, 10%, 5%, 5%, 20% e 10%.
 
-<img width="622" height="426" alt="Image" src="https://github.com/user-attachments/assets/6ca97e9e-1dbc-4e92-9be7-aceca0d5459a" />
+<img width="625" height="434" alt="Image" src="https://github.com/user-attachments/assets/b59d080d-fd80-46fd-b6c3-5ba2f2dcaebc" />
 
 # Construir a PROCV
 
